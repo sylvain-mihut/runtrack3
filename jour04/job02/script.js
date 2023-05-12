@@ -9,4 +9,4 @@ let value = {
     nb_staff: "11",
     creation:"2019"
 }
-console.log(jsonValueKey(value,'name','city'));
+console.log(jsonValueKey(value,'name'));
